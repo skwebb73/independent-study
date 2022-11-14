@@ -11,10 +11,10 @@ library(rtweet)
 library(stringr)
 
 
-consumer_key = "aGS9muS4qnyGzOJSOaJFbFLVn"
-consumer_secret = "0RK72SDkcKWA2Kf1DgTWVG7bFe1ZkbW5rA3CFnPy219AB4FB1c"
-access_token = "1245091167257137152-t7HUqGJARN7PhfwrDoVRlrKb09DkEu"
-access_secret = "HMJSvNKgBIP3ytiTfHfTPBdkaG0Cx4fJwJ9Q4thVdwwsy"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_secret = ""
 
 token <- create_token(
   app = "independent_study",
